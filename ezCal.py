@@ -44,3 +44,4 @@ if len(sys.argv) > 1:
 		'''with open("dailyCal.txt", "w+") as f: #in write mode
 			f.write(cals)
 		print("You have entered: " + cals + " calories")'''
+		#trying this again
